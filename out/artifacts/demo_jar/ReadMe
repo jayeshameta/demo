@@ -1,0 +1,18 @@
+:-Completed first problem statement with executable jar file
+How to run:
+1)Add the jar to intellij demo.jar from "Out" folder in "Demo" folder.
+2)click on run
+3)REST Endpoint: http://localhost:8080/createProduct
+
+Dependencies:
+1)		<dependency>
+  			<groupId>org.springframework.boot</groupId>
+  			<artifactId>spring-boot-starter-web</artifactId>
+  		</dependency>
+2)		<dependency>
+  			<groupId>org.springframework.boot</groupId>
+  			<artifactId>spring-boot-starter-test</artifactId>
+  			<scope>test</scope>
+  		</dependency>
+ Problem2:-Code not Completed
+ Problem3:-Code not Completed
